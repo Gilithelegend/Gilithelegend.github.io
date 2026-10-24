@@ -5,3 +5,12 @@
 @import "{{ site.theme }}";
 
 body, h1, h2, h3, h4, h5, h6, p, li, a { font-family: 'Open Sans', sans-serif !important; }
+
+body {
+  background: #EAF4FF;
+  font-size: 20px;
+  line-height: 1.8;
+}
+
+.wrapper { max-width: 1000px; }
+section  { width: 100%; }
