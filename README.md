@@ -20,7 +20,7 @@ BA in Biology, Pre-Medicine
 2021–2023  
 BA in Psychology, Minor in Life Sciences
 
-## Research & Current Rotation
+## Current Rotation
 
 For my first MSc rotation in the **Afek Lab**, I'm working with DNA minicircles to explore how bending, supercoiling, and DNA sequence influence DNA conformation and its interactions with proteins.
 
