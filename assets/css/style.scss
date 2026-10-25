@@ -17,15 +17,16 @@ body {
            width: auto; max-width: 1200px; margin: 0 auto; }
 header   { float: none; position: static; flex: 0 0 300px; }
 section  { float: none; width: auto; flex: 1; }
+
 /* spacing */
 h1, h2, h3 { margin-top: 0.8em; margin-bottom: 0.3em; }
 p { margin: 0.4em 0; }
 
 /* sidebar */
-header h1  { font-size: 3em; white-space: nowrap; margin-top: 0; }
-header img { width: 220px; border-radius: 50%; margin-top: 20px; }
+header h1   { font-size: 3em; white-space: nowrap; margin-top: 0; }
+header h1 a { color: #222; }
+header img  { width: 220px; border-radius: 50%; margin-top: 20px; }
 header p.view { display: none; }
 
 /* hide */
 footer { display: none; }
-header h1, header h1 a { font-size: 3em; white-space: nowrap; margin-top: 0; color: #222; }
