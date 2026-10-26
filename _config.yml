@@ -1,3 +1,6 @@
    title: Gili Kafri
    theme: jekyll-theme-minimal
-   logo: /GK.jpeg
+   logo: /gk.jpeg
+Fix logopath: /gk.jpeg
+
+
