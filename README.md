@@ -22,11 +22,12 @@ BA in Psychology, Minor in Life Sciences
 
 ## Current Rotation
 
-For my first MSc rotation in the **Afek Lab**, I'm working with DNA minicircles to explore how bending, supercoiling, and DNA sequence influence DNA conformation and its interactions with proteins.
+For my first MSc rotation in the **[Afek Lab](https://www.weizmann.ac.il/csb/Afek/)**, I'm working with DNA minicircles to explore how bending, supercoiling, and DNA sequence influence DNA conformation and its interactions with proteins.
 
 ## My Goals for This Python Course
 
-I'm taking this course to build a foundation in programming and learn how to use Python and AI tools effectively and responsibly. My goal is to analyze experimental data, automate repetitive tasks, and make my research workflows more efficient and reproducible.
+I'm taking this course to build a foundation in programming and learn how to use Python and AI to
+ols effectively and responsibly. My goal is to analyze experimental data, automate repetitive tasks, and make my research workflows more efficient and reproducible.
 
 On a personal level, I have dyslexia, and I hope to develop tools that make studying and working with scientific material more accessible.
 
